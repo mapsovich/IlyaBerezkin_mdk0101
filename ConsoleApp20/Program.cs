@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication1
+namespace Лаб3_2
 {
     class Program
     {
@@ -14,8 +14,8 @@ namespace ConsoleApplication1
             Console.WriteLine("********************");
             Console.WriteLine("**** Мой проект ****");
             Console.WriteLine("********************");
-            Console.BackgroundColor = ConsoleColor.Blue;
-            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
             Console.WriteLine("Привет, Берёзкин Илья!");
 
