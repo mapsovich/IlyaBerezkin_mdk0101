@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YourNamespace // Замените YourNamespace на имя вашего пространства имен
+namespace Лаб6_3 // Замените YourNamespace на имя вашего пространства имен
 {
     class Program
     {

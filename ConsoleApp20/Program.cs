@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Лаб3_2
+namespace Лаб2
 {
     class Program
     {

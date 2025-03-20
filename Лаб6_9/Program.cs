@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Primer
+namespace Лаб6_9
 {
     class Variant9
     {
